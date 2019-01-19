@@ -1,0 +1,1 @@
+# sample-for-git-deps-edn
