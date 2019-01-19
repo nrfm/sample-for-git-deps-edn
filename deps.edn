@@ -1,3 +1,2 @@
 {:paths ["src"]
- :deps  {reagent   {:mvn/version "0.8.0"}
-         antizer   {:mvn/version "0.3.1"}}}
+ :deps  {reagent   {:mvn/version "0.8.0"}}}
