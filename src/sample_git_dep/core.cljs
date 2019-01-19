@@ -1,4 +1,4 @@
-(ns local-root.core
+(ns sample-git-dep.core
   (:require [reagent.core :as r]))
 
 (defn local-root-resolves []
